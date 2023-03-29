@@ -19,4 +19,8 @@
 | ------------- | ------------- |
 | GIT INNIT | CRIA O REPOSITORIO  |
 | GIT REMOTE ADD ORIGIN| CONECTA AS DUAS PASTAS|
-| GIT ADD . | CRIA O REPOSITORIO  |
+| GIT ADD . | SELECIONA TODAS AS PASTAS  |
+|git config --global user.name "Your Name"| configura o nome do perfil|
+| git config --global user.email "you@example.com"|configura o email do github|
+| GIT COMMIT | PREPARA PARA SER ENVIADO |
+| GIT PUSH | POSTA OS ARQUIVOS NO GITHUB |
